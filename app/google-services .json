@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1056807377755",
+    "firebase_url": "https://ago-services.firebaseio.com",
+    "project_id": "ago-services",
+    "storage_bucket": "ago-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056807377755:android:5c397f3aabf13a6f",
+        "android_client_info": {
+          "package_name": "com.kredivation.ago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056807377755-8kc6dl166uuqfg3e9u7j5no43l2v7f4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kredivation.ago",
+            "certificate_hash": "cfcebd4b65489c51a2c90bf9f2c58d75a1d429b3"
+          }
+        },
+        {
+          "client_id": "1056807377755-7r20i5urocj5qr5d01d957qs3j9oio8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kredivation.ago",
+            "certificate_hash": "b36cc174fe8236ce38bacc2a62ab6f5cae38cba6"
+          }
+        },
+        {
+          "client_id": "1056807377755-akj1o389nmpvkjvf7ii6s408o5jo74ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD26s6d3AtvMPpMbJLy2Bjyj_h4F5nzpIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056807377755-akj1o389nmpvkjvf7ii6s408o5jo74ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
